@@ -1,0 +1,1 @@
+# Building_a_Virtual_Assistant_for_Trading_Platform_using_LLM_and_Langchain
